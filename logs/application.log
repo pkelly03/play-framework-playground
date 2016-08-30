@@ -1,0 +1,5 @@
+2016-08-30 21:12:12,787 [INFO] from application in ScalaTest-run-running-BrandServiceTest - ApplicationTimer demo: Starting application at 2016-08-30T20:12:12.756Z.
+2016-08-30 21:12:13,742 [INFO] from application in ScalaTest-run-running-BrandServiceTest - ApplicationTimer demo: Stopping application at 2016-08-30T20:12:13.742Z after 1s.
+2016-08-30 21:12:48,800 [INFO] from application in ScalaTest-run-running-BrandServiceTest - ApplicationTimer demo: Starting application at 2016-08-30T20:12:48.776Z.
+2016-08-30 21:12:56,726 [INFO] from application in ScalaTest-run-running-BrandServiceTest - ApplicationTimer demo: Stopping application at 2016-08-30T20:12:56.726Z after 8s.
+2016-08-30 21:13:29,524 [INFO] from application in ScalaTest-run-running-BrandServiceTest - ApplicationTimer demo: Starting application at 2016-08-30T20:13:29.494Z.
